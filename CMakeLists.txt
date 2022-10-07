@@ -51,6 +51,10 @@ target_link_libraries(
 )
 
 
-
+# name bind 
+add_executable(
+  name_bind
+  src/name_bind.cc
+)
 
 
